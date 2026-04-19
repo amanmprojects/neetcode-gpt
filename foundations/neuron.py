@@ -22,4 +22,4 @@ class Solution:
             case _:
                 res = 0.0
         
-        return round(np.float64(res), 5)
+        return round(res, 5)
